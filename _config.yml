@@ -2,25 +2,28 @@
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Permalinks
 permalink:           pretty
 
 # Setup
-url:                 http://bluseh55.github.io/
+url:                 http://bluesh55.github.io/
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
 baseurl:             ''
 
-title:               Bluesh
+title:               Bluesh's Dev blog
 
 # Pagination
 paginate:            5
 paginate_path:       '/page-:num/'
 
+description: "Dev | Life | About"
+
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description: |
+sidebar_description: |
   Location: Seoul, Korea  
   Name: Seunghwan Oh  
   Email: bluesh55@naver.com  
@@ -29,7 +32,7 @@ description: |
 sidebar_tags:        [dev, life]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/nap.jpg
+image:               ''
 color:               '#A85641'
 
 # Fonts
