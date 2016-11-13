@@ -89,3 +89,9 @@ GROUP BY clan;
 테스트 코드를 실행시키면 제대로 출력되는걸 볼 수 있다 ^.^
 
 ![](/public/img/blog/codewars/1/2.png)
+
+
+참고 링크
+
+* [COALESCE와 NULLIF](http://stackoverflow.com/questions/17244808/replacing-null-and-empty-string-within-select-statement)
+* [RANK 함수](https://sites.google.com/site/smcgbu/home/gongbu-iyagi/rankdenserankrownumbersun-wileulbanhwanhaneunhamsu)
