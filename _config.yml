@@ -29,7 +29,7 @@ sidebar_description: |
   Email: bluesh55@naver.com  
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [dev, life]
+sidebar_tags:        [dev, codewars, life]
 
 # Fallback image and color if not overwritten for tag or post
 image:               ''

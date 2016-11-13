@@ -18,6 +18,13 @@ dev:
   description: |
     개발 이야기
 
+codewars:
+  name: CodeWars
+  image: ""
+  color: '#949667'
+  description: |
+    [CodeWars](https://www.codewars.com/) 풀이
+
 life:
   name: Life
   image: ""
