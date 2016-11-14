@@ -35,7 +35,7 @@ GROUP BY clan;
 SELECT 
 	rank,
 	total_points,
-	COUNT(*) as total_people,
+	COUNT(*) AS total_people,
 	clan
 FROM people
 GROUP BY clan;
@@ -46,8 +46,8 @@ GROUP BY clan;
 ```sql
 SELECT 
 	rank,
-	SUM(points) as total_point,
-	COUNT(*) as total_people,
+	SUM(points) AS total_point,
+	COUNT(*) AS total_people,
 	clan
 FROM people
 GROUP BY clan;
@@ -60,9 +60,9 @@ SQL에는 순위를 매기는 함수가 있다. `RANK(), DENSE_RANK(), ROW_NUMBE
 
 ```sql
 SELECT 
-	RANK() OVER (ORDER BY SUM(points) DESC) as rank,
-	SUM(points) as total_point,
-	COUNT(*) as total_people,
+	RANK() OVER (ORDER BY SUM(points) DESC) AS rank,
+	SUM(points) AS total_point,
+	COUNT(*) AS total_people,
 	clan
 FROM people
 GROUP BY clan;
@@ -73,10 +73,10 @@ GROUP BY clan;
 
 ```sql
 SELECT 
-	RANK() OVER (ORDER BY SUM(points) DESC) as rank,
-	SUM(points) as total_point,
-	COUNT(*) as total_people,
-	COALESCE(NULLIF(clan, ''), '[no clan specified]')
+	RANK() OVER (ORDER BY SUM(points) DESC) AS rank,
+	SUM(points) AS total_point,
+	COUNT(*) AS total_people,
+	COALESCE(NULLIF(clan, ''), '[no clan specified]') AS clan
 FROM people
 GROUP BY clan;
 ```
