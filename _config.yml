@@ -32,7 +32,7 @@ sidebar_description: |
 sidebar_tags:        [dev, life]
 
 # Fallback image and color if not overwritten for tag or post
-image:               ''
+image:               '/public/img/side.png'
 color:               '#A85641'
 
 # Fonts
@@ -65,7 +65,7 @@ author:
     # spotify:         user/_number_
     # soundcloud:      _username_
     # lastfm:          _username_
-    # instagram:       _username_
+    instagram:       bluesh55
     # flickr:          _string_@_string_
     # 500px:           _username_
     # dribbble:        _username_
