@@ -15,3 +15,4 @@ dev:
   name: Dev
   image: ""
   color: '#949667'
+  description: ""

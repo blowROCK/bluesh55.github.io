@@ -20,7 +20,7 @@ title:               Bluesh
 paginate:            5
 paginate_path:       '/page-:num/'
 
-description: ""
+description: "DEV"
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 sidebar_description: |
