@@ -15,12 +15,3 @@ dev:
   name: Dev
   image: ""
   color: '#949667'
-  description: |
-    개발 이야기
-
-life:
-  name: Life
-  image: ""
-  color: '#949667'
-  description: |
-    일상 생활
