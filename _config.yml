@@ -47,7 +47,11 @@ author:
   photo2x:           /public/img/profile.jpeg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about: Hello World
+  about: |
+    스타트업에서 일하는 것을 좋아하는 평범한 개발자입니다.  
+    뭔가를 배우는것을 좋아하는 편이고 특히 객체 지향, 아키텍처, 클린 코드 등에 관심이 많습니다.  
+    넓고 얕은 것 보다 좁고 깊게 배우는 것을 지향합니다.  
+
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

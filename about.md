@@ -13,12 +13,12 @@ description: |
 
 ## Skills
 
-* Ruby on Rails
-* Android(Java)
-* Mysql & MongoDB
-* Linux, Mac
-* Git, Github, Bitbucket
-* AWS(EC2, S3, RDS, SNS, Route53, ES, etc)
+* Ruby, Ruby on Rails
+* iOS(Swift)
+* Mysql
+* OS X, Terminal, tmux
+* Git, Github
+* AWS
 * Vim
 
 ## Projects
@@ -26,30 +26,30 @@ description: |
 * Toycode
   - 2015.01 ~ 2015.10
   - Online programming education platform.
-  - Developed Backend & Frontend
-  - Used Rails & HTML & JS & SCSS & Docker
+  - Backend(AWS, RoR, Nginx, Docker)
+  - Web(HTML, JS, SCSS)
+  - Service Closed
 * Flearning
   - 2015.11 ~ 2016.05
   - Online & Offline programming education platform.
-  - Developed Backend & Frontend
-  - Used Rails & React & Redux & SCSS
+  - Backend(AWS, RoR, Nginx)
+  - Web(SPA, React, Redux, SCSS)
   - [See detail](http://www.flearning.net)
 * VillaNote
   - 2016.01 ~ 2016.08
   - Villa information app.
-  - Developed API & Android application
-  - Used Rails & Java & Realm
+  - Backend(AWS, RoR, Nginx)
+  - Android(Java, Realm)
   - [See detail](https://play.google.com/store/apps/details?id=com.plurry.villanote)
 * Vinup
   - 2016.07 ~
   - Social network app for wine.
-  - Developed API
-  - Used Rails
+  - Backend(AWS, RoR, Nginx, ElasticSearch)
+  - iOS(Swift)
   - [See detail](http://www.vinup.co.kr)
 * Uloop
   - 2016.08 ~
   - Concern & Location based social network app.
-  - Developed API
-  - Used Rails
-
+  - Backend(AWS, RoR, Nginx, ElasticSearch)
+  - [See detail](https://play.google.com/store/apps/details?id=com.uloop.uloop)
 
