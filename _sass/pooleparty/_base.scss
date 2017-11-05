@@ -1,6 +1,10 @@
 // Body resets
 //
 // Update the foundational and global aspects of the page.
+@font-face {
+  font-family: 'SpoqaHanSans';
+  src: url('/public/fonts/Spoqa_Han_Sans_Regular.ttf') format('truetype');
+}
 
 article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}
 mark{background:#FF0;color:#000}

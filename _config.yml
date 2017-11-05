@@ -1,5 +1,5 @@
 # Dependencies
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
@@ -32,13 +32,11 @@ sidebar_description: |
 sidebar_tags:        [dev]
 
 # Fallback image and color if not overwritten for tag or post
-image:               ''
-color:               '#A85641'
+image:               '/public/img/cat.jpg'
+color:               '#AC4142'
 
 # Fonts
-font:                '"PT Serif", Georgia, serif'
-font_accent:         '"Roboto Slab", "PT Serif", Georgia, serif'
-load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
+font:                '"SpoqaHanSans", "sans-serif"'
 
 # About yourself
 author:
