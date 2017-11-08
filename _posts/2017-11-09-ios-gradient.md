@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[iOS] 뷰에 그라데이션 적용하기"
+title: "[iOS] 그라데이션 원하는대로 만들기"
 date: 2017-11-09
 tags: [dev]
 ---
